@@ -12,7 +12,7 @@ SPDX-License-Identifier: CC-BY-4.0
 - [Naming & Addressing]()
 
 # Network Elements
-- [Router]()
+- [Router](router.md)
 - [Switches & Access Points]()
 - [Primary Server]()
 - [HiFi Pi]()
