@@ -1,0 +1,9 @@
+# Copyright (c) 2022 Paul Barker
+# SPDX-License-Identifier: CC-BY-4.0
+
+[book]
+authors = ["Paul Barker"]
+language = "en"
+multilingual = false
+src = "src"
+title = "cephei.uk Network Documentation"
