@@ -5,7 +5,7 @@ SPDX-License-Identifier: CC-BY-4.0
 
 # Summary
 
-- [Introduction](./introduction.md)
+- [Introduction](introduction.md)
 
 # Network Design
 - [Motivations & Goals]()
